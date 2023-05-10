@@ -1,0 +1,6 @@
+# Project exclude paths
+/target/
+/.idea/
+/.java-version
+/spb-edp-integration-tests.iml
+/bin/
